@@ -9,7 +9,8 @@ To use refer the images:
 ![decoding](https://user-images.githubusercontent.com/99592846/228358196-24da4e8e-caf4-4491-82cb-4a0165fd47e9.jpg
 
 Here is the input.txt file before compression:
-![image](https://github.com/SuyashTyagi29/Text-File-Compression/assets/99592846/29d09527-1e37-4601-bd4a-622c827d0c34)
+![image](https://github.com/SuyashTyagi29/Text-File-Compression/assets/99592846/ee202766-67ab-4555-a611-256e8422805f)
+
 
 After compression: 
 ![image](https://github.com/SuyashTyagi29/Text-File-Compression/assets/99592846/ee74c312-b984-42bf-894e-c5c43776d90b)
